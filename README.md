@@ -1,3 +1,7 @@
 # hello-world
 
-I am about to start my own website
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+</body>
